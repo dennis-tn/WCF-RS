@@ -1,0 +1,2 @@
+model_checkpoint_path: "ml-100k_cf_top3_NeuMF_8_[32, 16, 8]_ckpt"
+all_model_checkpoint_paths: "ml-100k_cf_top3_NeuMF_8_[32, 16, 8]_ckpt"
